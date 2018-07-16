@@ -13,7 +13,6 @@
 *.tar.gz
 *.rar
 
-.idea
 .ARCHIVE
 .PRESENTATIONS
 .TEMP
