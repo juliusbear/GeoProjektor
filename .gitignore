@@ -6,7 +6,6 @@
 
 .mtj.tmp/
 
-*.jar
 *.war
 *w.ear
 *.zip
